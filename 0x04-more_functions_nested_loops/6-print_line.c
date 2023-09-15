@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_line _straight -line
- * @n:No of times
- * Return:Always 0
+ * print_line - prints a line
+ *
+ * @n: integer to print stuff?
  */
 
 void print_line(int n)
